@@ -18,6 +18,6 @@ To set up and deploy the website, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/AWS_Deploying-Project.git
+   git clone https://github.com/skytruong90/AWS_Deploying-Project.git
    cd AWS_Deploying-Project
    ```
