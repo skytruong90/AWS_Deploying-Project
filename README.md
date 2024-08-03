@@ -1,4 +1,4 @@
-# AWS_Deploying-Project
+# AWS Deploying Project
 
 ## What is this?
 This is a project where I deploy an end-to-end website on AWS from scratch. The project demonstrates the complete process of setting up, configuring, and deploying a fully functional website using various AWS services.
