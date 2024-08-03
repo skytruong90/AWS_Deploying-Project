@@ -21,13 +21,16 @@ To set up and deploy the website, follow these steps:
    git clone https://github.com/skytruong90/AWS_Deploying-Project.git
    cd AWS_Deploying-Project
    ```
+   
 2. **Install AWS CLI**:
    - Follow the AWS CLI installation guide to install and configure the AWS CLI.
+     
 3. **Configure AWS CLI**:
    ```bash
    aws configure
    ```
    - Provide your AWS Access Key ID, Secret Access Key, region, and output format.
+  
 4. **Deploy CloudFormation Stack**:
    - Navigate to the CloudFormation template directory and deploy the stack.
    ```bash
